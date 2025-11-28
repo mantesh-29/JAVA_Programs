@@ -1,0 +1,1 @@
+//program using indexOf() method
